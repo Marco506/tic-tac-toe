@@ -1,0 +1,71 @@
+
+body{
+
+    background-color: rgb(88, 79, 134);
+    color: aliceblue;
+}
+
+#divPadre{
+    
+    display: grid;
+    grid-template-columns: repeat(3,100px);
+    grid-template-rows: repeat(3, 100px);
+    
+    width: 40%;
+    margin-left: 40%;
+    
+    
+    
+}
+
+
+.divHijos{
+    border: 1px solid #d97093;
+    color: aliceblue;
+    border-radius: 10%;
+    margin: 3%;
+    font-size: 80px;
+    color: black;
+    text-align: center;
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20200714/pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg);
+
+    
+    
+}
+h2{
+text-align: center;
+font-family: cursive;
+font-size: 40px;
+}
+button{
+    margin-left: 46%;
+    border-radius: 10%;
+    background-color: #d97093;
+    font-size: 25px;
+    font-family: cursive;
+    
+
+}
+#styloL,
+#letraStyle{
+    font-family: cursive;
+    color: aliceblue;
+    
+}
+
+#letraA,
+#letraO,
+#empates{
+    margin-left: 46%;
+    font-size: 20px;
+    font-family: cursive;
+
+}
+
+#parrafo{
+    
+    text-align: center;
+    font-family: cursive;
+    background-image: url(https://cliply.co/wp-content/uploads/2019/02/371812620_FIREWORKS_400.gif);
+}
+
